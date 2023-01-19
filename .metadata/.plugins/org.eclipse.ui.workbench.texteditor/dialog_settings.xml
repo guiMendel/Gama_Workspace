@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="execute_action"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="execute_action"/>
+			<item value="switc"/>
+			<item value="write"/>
+			<item value="get_view_matrix"/>
+			<item value="self"/>
+			<item value="resource"/>
+			<item value="switch"/>
+			<item value="color"/>
+			<item value="witc"/>
+			<item value="request_action"/>
+			<item value="resources_collected"/>
+			<item value="&#x09;int resources_collected &lt;- 0;"/>
+			<item value="facing_direction"/>
+			<item value="faces"/>
+			<item value="facing_location"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1471"/>
+		<item key="DIALOG_Y_ORIGIN" value="196"/>
+		<item key="DIALOG_WIDTH" value="363"/>
+		<item key="DIALOG_HEIGHT" value="437"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+	</section>
+</section>
